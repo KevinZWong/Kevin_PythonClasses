@@ -1,0 +1,5 @@
+print("3.6")
+print("Enter a ASCII code")
+ASCII_Num = int(input())
+ASCII = chr(ASCII_Num)
+print("The character is",ASCII)

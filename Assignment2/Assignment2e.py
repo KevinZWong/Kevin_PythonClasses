@@ -1,0 +1,7 @@
+print("2.10")
+print("Enter an acceleration")
+a = int(input())
+print("Enter the velocity")
+v = int(input())
+lenth = (v*v)/(2*a)
+print("The minimum runway lenth is", lenth)
