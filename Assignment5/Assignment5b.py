@@ -13,7 +13,6 @@ for i in range(0, len(list1) - 1,1):
 print("sum= ", sum)
 
 
-#45
 
 
 

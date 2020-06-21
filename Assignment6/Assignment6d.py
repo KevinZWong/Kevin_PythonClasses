@@ -1,4 +1,5 @@
-
+#how many prime
+print("Enter a number:")
 def PrimeYN(number):
     if number > 1:
         for i in range(2, number):

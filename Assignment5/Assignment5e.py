@@ -27,7 +27,8 @@ def funct1(var1):
     print("sum= ", sum)
 
 
-list1 = [10000,20000,30000,100000]
+list1 = [1000,2000,3000,4000,5000,6000,7000,8000,9000,10000]
 for var1 in list1:
+    print(var1 ,":")
     funct1(var1)
 
